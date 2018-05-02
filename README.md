@@ -520,8 +520,7 @@
 <option value="275" dorsal="118">YATES Simon: 275</option>
 <option value="50" dorsal="217">ZARDINI Edoardo: 50</option>
 <option value="50" dorsal="38">ZEITS Andrey: 50</option>
-<option value="50" dorsal="218">ZHUPA Eugert: 50</option>
-</tr><tr>
+<option value="50" dorsal="218">ZHUPA Eugert: 50</option></tr><tr>
 <td class="labels">C2 :&#160</td>
 <td><select id="rider2" onChange="getCredits(); sumPrices(); getRemaining(); printDorsal();">
 <option value="0" selected="selected">Selecciona un corredor</option>
@@ -700,8 +699,7 @@
 <option value="275" dorsal="118">YATES Simon: 275</option>
 <option value="50" dorsal="217">ZARDINI Edoardo: 50</option>
 <option value="50" dorsal="38">ZEITS Andrey: 50</option>
-<option value="50" dorsal="218">ZHUPA Eugert: 50</option>
-</tr><tr>
+<option value="50" dorsal="218">ZHUPA Eugert: 50</option></tr><tr>
 <td class="labels">C3 :&#160</td>
 <td><select id="rider3" onChange="getCredits(); sumPrices(); getRemaining(); printDorsal();">
 <option value="0" selected="selected">Selecciona un corredor</option>
@@ -880,8 +878,7 @@
 <option value="275" dorsal="118">YATES Simon: 275</option>
 <option value="50" dorsal="217">ZARDINI Edoardo: 50</option>
 <option value="50" dorsal="38">ZEITS Andrey: 50</option>
-<option value="50" dorsal="218">ZHUPA Eugert: 50</option>
-</tr><tr>
+<option value="50" dorsal="218">ZHUPA Eugert: 50</option></tr><tr>
 <td class="labels">C4 :&#160</td>
 <td><select id="rider4" onChange="getCredits(); sumPrices(); getRemaining(); printDorsal();">
 <option value="0" selected="selected">Selecciona un corredor</option>
@@ -1060,8 +1057,7 @@
 <option value="275" dorsal="118">YATES Simon: 275</option>
 <option value="50" dorsal="217">ZARDINI Edoardo: 50</option>
 <option value="50" dorsal="38">ZEITS Andrey: 50</option>
-<option value="50" dorsal="218">ZHUPA Eugert: 50</option>
-</tr><tr>
+<option value="50" dorsal="218">ZHUPA Eugert: 50</option></tr><tr>
 <td class="labels">C5 :&#160</td>
 <td><select id="rider5" onChange="getCredits(); sumPrices(); getRemaining(); printDorsal();">
 <option value="0" selected="selected">Selecciona un corredor</option>
@@ -1240,8 +1236,7 @@
 <option value="275" dorsal="118">YATES Simon: 275</option>
 <option value="50" dorsal="217">ZARDINI Edoardo: 50</option>
 <option value="50" dorsal="38">ZEITS Andrey: 50</option>
-<option value="50" dorsal="218">ZHUPA Eugert: 50</option>
-</tr><tr>
+<option value="50" dorsal="218">ZHUPA Eugert: 50</option></tr><tr>
 <td class="labels">C6 :&#160</td>
 <td><select id="rider6" onChange="getCredits(); sumPrices(); getRemaining(); printDorsal();">
 <option value="0" selected="selected">Selecciona un corredor</option>
@@ -1420,8 +1415,7 @@
 <option value="275" dorsal="118">YATES Simon: 275</option>
 <option value="50" dorsal="217">ZARDINI Edoardo: 50</option>
 <option value="50" dorsal="38">ZEITS Andrey: 50</option>
-<option value="50" dorsal="218">ZHUPA Eugert: 50</option>
-</tr><tr>
+<option value="50" dorsal="218">ZHUPA Eugert: 50</option></tr><tr>
 <td class="labels">C7 :&#160</td>
 <td><select id="rider7" onChange="getCredits(); sumPrices(); getRemaining(); printDorsal();">
 <option value="0" selected="selected">Selecciona un corredor</option>
@@ -1600,8 +1594,7 @@
 <option value="275" dorsal="118">YATES Simon: 275</option>
 <option value="50" dorsal="217">ZARDINI Edoardo: 50</option>
 <option value="50" dorsal="38">ZEITS Andrey: 50</option>
-<option value="50" dorsal="218">ZHUPA Eugert: 50</option>
-</tr><tr>
+<option value="50" dorsal="218">ZHUPA Eugert: 50</option></tr><tr>
 <td class="labels">C8 :&#160</td>
 <td><select id="rider8" onChange="getCredits(); sumPrices(); getRemaining(); printDorsal();">
 <option value="0" selected="selected">Selecciona un corredor</option>
@@ -1780,8 +1773,7 @@
 <option value="275" dorsal="118">YATES Simon: 275</option>
 <option value="50" dorsal="217">ZARDINI Edoardo: 50</option>
 <option value="50" dorsal="38">ZEITS Andrey: 50</option>
-<option value="50" dorsal="218">ZHUPA Eugert: 50</option>
-</tr><tr>
+<option value="50" dorsal="218">ZHUPA Eugert: 50</option></tr><tr>
 <td class="labels">C9 :&#160</td>
 <td><select id="rider9" onChange="getCredits(); sumPrices(); getRemaining(); printDorsal();">
 <option value="0" selected="selected">Selecciona un corredor</option>
@@ -1960,8 +1952,7 @@
 <option value="275" dorsal="118">YATES Simon: 275</option>
 <option value="50" dorsal="217">ZARDINI Edoardo: 50</option>
 <option value="50" dorsal="38">ZEITS Andrey: 50</option>
-<option value="50" dorsal="218">ZHUPA Eugert: 50</option>
-</tr><tr>
+<option value="50" dorsal="218">ZHUPA Eugert: 50</option></tr><tr>
 <td class="labels">R :&#160</td>
 <td><select id="reserve" onChange="getCredits(); sumPrices(); getRemaining(); printDorsal();">
 <option value="0" selected="selected">Selecciona un corredor</option>
@@ -2140,8 +2131,7 @@
 <option value="275" dorsal="118">YATES Simon: 275</option>
 <option value="50" dorsal="217">ZARDINI Edoardo: 50</option>
 <option value="50" dorsal="38">ZEITS Andrey: 50</option>
-<option value="50" dorsal="218">ZHUPA Eugert: 50</option>
-</tr></table>
+<option value="50" dorsal="218">ZHUPA Eugert: 50</option></tr></table>
 <br>
 <p>Listado de dorsales:</p>
 <textarea id="dorsalList" rows="11">
